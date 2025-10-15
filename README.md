@@ -85,7 +85,7 @@ WealthTrack Pro is a comprehensive personal finance management application that 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/wealthtrack-pro.git
+git clone https://github.com/huddylatimer/wealthtrackpro.git
 cd wealthtrack-pro
 ```
 
@@ -234,7 +234,7 @@ We welcome contributions to WealthTrack Pro! Here's how you can help:
 
 ## Security
 
-If you discover a security vulnerability, please email security@wealthtrackpro.com instead of using the issue tracker.
+If you discover a security vulnerability, please email hudsonlatimer4@gmail.com instead of using the issue tracker.
 
 ## License
 
@@ -253,7 +253,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For support, please:
 - Check the in-app Documentation page
 - Open an issue on GitHub
-- Email support@wealthtrackpro.com
+- Email hudsonlatimer4@gmail.com
 
 ---
 
