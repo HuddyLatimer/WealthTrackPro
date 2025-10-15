@@ -259,8 +259,8 @@ For support, please:
 
 <div align="center">
 
-**Made with ❤️ for better financial management**
+**Made for better financial management**
 
-[Website](https://wealthtrackpro.com) • [Documentation](https://docs.wealthtrackpro.com) • [Blog](https://blog.wealthtrackpro.com)
+[Website](https://wealthtrackpro.netlify.app/) 
 
 </div>
